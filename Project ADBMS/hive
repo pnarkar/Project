@@ -1,0 +1,45 @@
+ 
+Create table query
+
+create table movehub.CityHub(City String,Country String,MovehubRating double,PurchasePower double,HealthCare double,Pollution double,QualityofLife double,CrimeRating double,Cappuccino double,Cinema double,Wine double,Gasoline double,AvgRent double,AvgDisposableIncome double)
+    CLUSTERED BY (Pollution) into 3 buckets
+    ROW FORMAT DELIMITED
+    FIELDS TERMINATED BY ','
+    STORED as orc TBLPROPERTIES('transactional'='true');
+
+
+create table movehub.CityHubtext(City String,Country String,MovehubRating double,PurchasePower double,HealthCare double,Pollution double,QualityofLife double,CrimeRating double,Cappuccino double,Cinema double,Wine double,Gasoline double,AvgRent double,AvgDisposableIncome double)
+   
+    ROW FORMAT DELIMITED
+    FIELDS TERMINATED BY ','
+    STORED as TEXTFILE;
+
+
+
+INSERT INTO TABLE movehub.CityHub SELECT * FROM movehub.CityHubtext;
+
+
+
+drop table if exists movehub.cityhub;
+
+loading data into table
+
+LOAD DATA INPATH '/huboutput1' OVERWRITE INTO TABLE movehub.CityHub;
+
+finding avg crime rate by country
+select avg(CrimeRating), Country from cityhub group by Country;
+
+finding max of income by country
+select max(AvgDisposableIncome) as income ,Country from movehub.cityhub group by Country order by income desc;
+
+//Adding column
+Alter table movehub.cityhub ADD Columns (CountryType String);
+
+
+update movehub.cityhub set QualityofLife=0 where Pollution>=0 and Pollution<=33.0;
+
+update movehub.cityhub set QualityofLife=1 where Pollution>33.0 and Pollution<=66.0;
+
+update movehub.cityhub set QualityofLife=2 where Pollution>66.0 and Pollution<=100.0;
+
+

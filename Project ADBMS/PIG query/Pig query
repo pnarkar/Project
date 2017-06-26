@@ -1,0 +1,5 @@
+
+Finding Mini of the power per country
+
+data = LOAD '/home/pranali/Desktop/pig.text' USING PigStorage(',') AS (City:Chararray,Country:Chararray,MovehubRating:double,PurchasePower:double,HealthCare:double,Pollution:double,QualityofLife:double,CrimeRating:double,Cappuccino:double,Cinema:double,Wine:double,Gasoline:double,AvgRent:double,AvgDisposableIncome:double) ; countrygrp = GROUP data BY Country ; purpower = FOREACH countrygrp GENERATE FLATTEN(data.(Country , PurchasePower,City)), MIN(data.PurchasePower) ; STORE purpower into 'minpowerpercountry' ;
+

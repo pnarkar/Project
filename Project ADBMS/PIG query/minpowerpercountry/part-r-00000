@@ -1,0 +1,198 @@
+Iran	18.09	Tehran	18.09
+Oman	77.16	Muscat	77.16
+Peru	23.22	Lima	23.22
+Chile	29.96	Santiago	29.96
+China	22.97	Beijing	22.97
+China	26.74	Shanghai	22.97
+Egypt	11.9	Cairo	11.9
+India	32.91	Chennai	28.8
+India	37.08	Gurgaon	28.8
+India	57.88	Noida	28.8
+India	33.69	Ahmedabad	28.8
+India	37.96	Pune	28.8
+India	35.79	Indore	28.8
+India	28.98	Kochi	28.8
+India	36.37	Vadodara	28.8
+India	28.8	Kolkata	28.8
+India	39.93	Hyderabad	28.8
+India	38.67	Bangalore	28.8
+India	34.39	Delhi	28.8
+India	28.83	Mumbai	28.8
+Italy	32.72	Rome	32.72
+Italy	35.31	Florence	32.72
+Italy	45.69	Venice	32.72
+Italy	35.38	Naples	32.72
+Italy	43.43	Milan	32.72
+Japan	47.57	Tokyo	47.57
+Kenya	15.82	Nairobi	15.82
+Qatar	81.96	Doha	81.96
+Spain	54.07	Madrid	44.69
+Spain	45.68	Barcelona	44.69
+Spain	49.11	Valencia	44.69
+Spain	44.69	Alicante	44.69
+Brazil	20.18	Colombo	19.07
+Brazil	21.77	Belo Horizonte	19.07
+Brazil	34.97	Curitiba	19.07
+Brazil	52.28	Fortaleza	19.07
+Brazil	19.07	Porto Alegre	19.07
+Canada	91.85	Ottawa	48.06
+Canada	52.91	Victoria	48.06
+Canada	48.06	Vancouver	48.06
+Canada	61.44	Toronto	48.06
+Canada	60.8	Regina	48.06
+Canada	63.9	Calgary	48.06
+Canada	54.76	Cambridge	48.06
+Canada	66.99	Montreal	48.06
+Canada	53.17	London	48.06
+Canada	67.19	Edmonton	48.06
+Canada	56.52	Hamilton	48.06
+Cyprus	39.03	Nicosia	39.03
+Cyprus	40.13	Limassol	39.03
+France	57.05	Marseille	47.08
+France	49.52	Nice	47.08
+France	54.47	Toulouse	47.08
+France	47.08	Paris	47.08
+France	56.05	Lyon	47.08
+France	72.23	Strasbourg	47.08
+Greece	24.58	Thessaloniki	24.58
+Greece	26.05	Athens	24.58
+Israel	44.03	Haifa	37.22
+Israel	37.22	Jerusalem	37.22
+Jordan	21.22	Amman	21.22
+Mexico	24.28	Mexico City	24.28
+Norway	51.22	Trondheim	46.59
+Norway	52.51	Oslo	46.59
+Norway	46.59	Stavanger	46.59
+Norway	51.24	Bergen	46.59
+Poland	35.77	Warsaw	35.77
+Russia	24.82	Saint Petersburg	24.82
+Russia	24.94	Moscow	24.82
+Serbia	21.46	Belgrade	21.46
+Sweden	51.03	Stockholm	26.95
+Sweden	26.95	Gothenburg	26.95
+Taiwan	38.19	Taipei	38.19
+Turkey	22.91	Antalya	22.91
+Albania	17.8	Tirana	17.8
+Austria	51.21	Vienna	51.21
+Bahrain	40.26	Manama	40.26
+Belarus	16.14	Minsk	16.14
+Belgium	54.41	Brussels	54.41
+Croatia	26.71	Zagreb	26.71
+Denmark	49.33	Copenhagen	49.33
+Ecuador	14.24	Quito	14.24
+Finland	54.41	Helsinki	54.41
+Germany	59.18	Cologne	59.18
+Germany	61.13	Hamburg	59.18
+Germany	63.28	Munich	59.18
+Germany	60.55	Aachen	59.18
+Germany	82.6	Dresden	59.18
+Germany	65.82	Stuttgart	59.18
+Germany	68.72	Berlin	59.18
+Hungary	24.59	Budapest	24.59
+Ireland	47.98	Cork	47.98
+Ireland	50.13	Dublin	47.98
+Morocco	13.2	Casablanca	13.2
+Nigeria	14.91	Lagos	14.91
+Romania	22.85	Bucharest	22.85
+Senegal	80.4	Saint Louis	80.4
+Ukraine	17.11	Kharkiv	17.11
+Ukraine	18.88	Kiev	17.11
+Uruguay	21.56	Montevideo	21.56
+Vietnam	12.22	Hanoi	12.22
+Botswana	30.98	Gaborone	30.98
+Bulgaria	20.34	Varna	20.34
+Bulgaria	23.03	Sofia	20.34
+Colombia	14.52	Bogota	14.52
+Ethiopia	6.38	Addis Ababa	6.38
+Malaysia	37.09	Kuala Lumpur	37.09
+Mongolia	15.35	Ulaanbaatar	15.35
+Pakistan	14.63	Karachi	12.45
+Pakistan	39.93	Hyderabad	12.45
+Pakistan	12.45	Lahore	12.45
+Portugal	31.28	Porto	30.21
+Portugal	30.21	Braga	30.21
+Portugal	32.48	Lisbon	30.21
+Slovakia	29.29	Bratislava	29.29
+Slovenia	32.28	Ljubljana	32.28
+Thailand	20.82	Bangkok	15.89
+Thailand	15.89	Chiang Mai	15.89
+Argentina	29.29	Buenos Aires	29.29
+Australia	56.11	Gold Coast	49.51
+Australia	49.51	Darwin	49.51
+Australia	55.48	Melbourne	49.51
+Australia	62.11	Perth	49.51
+Australia	53.72	Brisbane	49.51
+Australia	54.82	Sydney	49.51
+Australia	72.03	Adelaide	49.51
+Australia	63.26	Canberra	49.51
+Hong Kong	50.07	Hong Kong	50.07
+Indonesia	17.38	Jakarta	17.38
+Lithuania	24.17	Vilnius	24.17
+Singapore	33.14	Singapore	33.14
+Sri Lanka	20.18	Colombo	20.18
+Venezuela	45.68	Barcelona	11.25
+Venezuela	49.11	Valencia	11.25
+Venezuela	11.25	Caracas	11.25
+Azerbaijan	11.38	Baku	11.38
+Bangladesh	21.32	Dhaka	21.32
+Luxembourg	76.44	Luxembourg	76.44
+Netherlands	68.28	The Hague	47.18
+Netherlands	49.87	Utrecht	47.18
+Netherlands	47.18	Amsterdam	47.18
+Netherlands	50.9	Rotterdam	47.18
+New Zealand	47.1	Christchurch	47.1
+New Zealand	49.02	Auckland	47.1
+New Zealand	49.11	Wellington	47.1
+New Zealand	56.52	Hamilton	47.1
+Philippines	49.11	Valencia	14.8
+Philippines	14.8	Manila	14.8
+South Korea	54.3	Seoul	54.3
+Switzerland	78.17	Basel	61.22
+Switzerland	61.22	Geneva	61.22
+Switzerland	90.77	Lausanne	61.22
+Saudi Arabia	63.22	Riyadh	63.22
+South Africa	53.99	Johannesburg	46.74
+South Africa	46.74	Pretoria	46.74
+South Africa	60.36	Cape Town	46.74
+United States	69.22	Austin	26.05
+United States	66.77	Chicago	26.05
+United States	73.81	Detroit	26.05
+United States	80.83	Atlanta	26.05
+United States	26.05	Athens	26.05
+United States	77.18	Charlotte	26.05
+United States	48.06	Vancouver	26.05
+United States	62.75	Los Angeles	26.05
+United States	76.18	Dallas	26.05
+United States	71.07	Orlando	26.05
+United States	59.28	Boston	26.05
+United States	84.39	Newark	26.05
+United States	55.56	New York	26.05
+United States	80.72	Indianapolis	26.05
+United States	46.41	Birmingham	26.05
+United States	54.76	Cambridge	26.05
+United States	71.96	Houston	26.05
+United States	80.46	Las Vegas	26.05
+United States	66.32	New Orleans	26.05
+United States	80.3	Nashville	26.05
+United States	58.54	Honolulu	26.05
+United States	78.78	Baltimore	26.05
+United States	78.46	Seattle	26.05
+Czech Republic	35.32	Prague	35.32
+United Kingdom	50.33	Oxford	39.76
+United Kingdom	63.88	Leeds	39.76
+United Kingdom	39.76	Bristol	39.76
+United Kingdom	50.56	Brighton	39.76
+United Kingdom	54.76	Cambridge	39.76
+United Kingdom	58.77	Edinburgh	39.76
+United Kingdom	53.78	Liverpool	39.76
+United Kingdom	46.41	Birmingham	39.76
+United Kingdom	49.7	Aberdeen	39.76
+United Kingdom	52.8	Belfast	39.76
+United Kingdom	53.17	London	39.76
+United Kingdom	85.0	Glasgow	39.76
+United Kingdom	62.31	Manchester	39.76
+United Kingdom	53.57	Nottingham	39.76
+United Kingdom	71.88	Leicester	39.76
+Dominican Republic	28.82	Santo Domingo	28.82
+United Arab Emirates	69.64	Dubai	68.03
+United Arab Emirates	68.03	Abu Dhabi	68.03
